@@ -1,3 +1,15 @@
 # Configurando - Nome e Email
 !git config --global user.name "AndriusWinter"
 !git config --global user.email "andriuswinter15@gmail.com"
+
+# Criando uma pasta para o repositório
+!mkdir AndriusWinter
+
+# Acessando a pasta
+%cd AndriusWinter
+
+# Inicializando o repositório com git init
+!git init
+
+# Mostrando o conteúdo do diretório MeuRepositorio
+%ls -a
