@@ -1,0 +1,3 @@
+# Configurando - Nome e Email
+!git config --global user.name "AndriusWinter"
+!git config --global user.email "andriuswinter15@gmail.com"
